@@ -14,35 +14,18 @@ Backend Engineer focused on building scalable APIs, cloud services, real-time sy
 
 ## 🛠 Tech Stack
 
-### Languages
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
-
-### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-
-### Databases
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
-
-
-### Cloud & DevOps
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white)
 
@@ -90,7 +73,7 @@ Concurrent RSS aggregation platform supporting feed subscriptions, scheduled scr
 
 ### 🔹 Type Agent
 
-**Tool-driven AI agent powered by Gemini**
+**Tool-driven AI agent that combines Gemini function calling with local tool execution, enabling autonomous file inspection, code modification, and sandboxed Python execution.**
 
 A Python-based agent that combines Gemini function calling with local tool execution to inspect files, modify code, and execute Python scripts within a sandboxed workspace.
 
@@ -128,9 +111,12 @@ A Python-based agent that combines Gemini function calling with local tool execu
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Currently Building
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohdaman01)
+- AI Agents
+- Backend Systems in Go
+- Cloud-Native Applications
+- LLM Integrations
 
 ---
 
