@@ -84,20 +84,30 @@ Concurrent RSS aggregation platform supporting feed subscriptions, scheduled scr
 
 ---
 
-### 🔹 AI Summarizer
+### 🔹 Type Agent
 
-**AI-powered article summarization platform**
+**Tool-driven AI agent powered by Gemini**
 
-Web application that generates concise summaries from online articles using AI-powered content processing.
+A Python-based agent that combines Gemini function calling with local tool execution to inspect files, modify code, and execute Python scripts within a sandboxed workspace.
 
 **Highlights**
 
-* AI Content Summarization
-* React Frontend
-* Node.js Backend
-* URL-Based Content Extraction
+* Gemini API Integration
+* Function Calling
+* Tool-Driven Agent Architecture
+* File System Operations
+* Sandboxed Code Execution
+* Iterative Agent Loops
+* Python Automation
 
-🔗 Repository: https://github.com/Mohdaman01/AI_Summarizer
+**Architecture**
+
+* `main.py` manages the agent execution loop
+* `call_function.py` bridges Gemini tool calls to local functions
+* `functions/` provides file inspection, reading, writing, and execution tools
+* `config.py` controls working directory boundaries and iteration limits
+
+🔗 Repository: https://github.com/Mohdaman01/type-agent
 
 ---
 
