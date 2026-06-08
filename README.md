@@ -29,11 +29,14 @@ Backend Engineer focused on building scalable APIs, cloud services, real-time sy
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
+
 
 ### Cloud & DevOps
 
@@ -41,6 +44,7 @@ Backend Engineer focused on building scalable APIs, cloud services, real-time sy
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white)
 
 ---
 
