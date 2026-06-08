@@ -134,4 +134,4 @@ A Python-based agent that combines Gemini function calling with local tool execu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd_Aman-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohd-aman-77b838250)
 
-📧 **Email:** [mohdaman102001@gmail.com](mailto:mohdaman102001@gmail.com)
+📧 **Email:** [amanmohd200116@gmail.com](mailto:amanmohd200116@gmail.com)
