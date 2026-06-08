@@ -126,9 +126,7 @@ A Python-based agent that combines Gemini function calling with local tool execu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohdaman01\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdaman01\&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohdaman01)
 
 ---
 
